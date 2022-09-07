@@ -29,7 +29,7 @@ a:hover {
 }
 
 .my-carousel .carousel-item {
-	max-height: 600px;
+	max-height: 300px;
 }
 
 .my-carousel .carousel-item img{
@@ -42,7 +42,7 @@ a:hover {
 
 /* Карточек */
 .card img {
-    height: 100px;
+    height: 300px;
     object-fit: cover;
 }
 
