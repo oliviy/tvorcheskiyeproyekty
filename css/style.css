@@ -1,0 +1,58 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* стили для ссылок */
+a {
+    color: #aaa;
+}
+
+a:hover {
+    color: #fdbe01;
+}
+
+/* Заголовок */
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: rgb(58, 52, 52);
+    font-weight: bold;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    right: 0;
+    left: auto;
+}
+
+/*Карусель*/
+.my-carousel  {
+	padding: 0;
+}
+
+.my-carousel .carousel-item {
+	max-height: 700px;
+}
+
+.my-carousel .carousel-item img{
+	object-fit: cover;
+}
+
+.about img {
+    width: 300px;
+}
+
+/* Карточек */
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.card:hover {
+	box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.75);
+}
+
+.container {
+    background-color: #ece7b3;
+}
+.btn-secondary {
+    color: #dbae27;
+}
